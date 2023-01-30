@@ -1,2 +1,2 @@
-# Repositorio-Henrytrue
-Este es proyecto es una prueba del modulo 2 PrepCourse
+Este proyecto es una prueba de como crear un respositorio desde gitbuh y clonarlo a mi computadora.
+
